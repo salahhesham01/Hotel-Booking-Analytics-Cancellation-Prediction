@@ -159,5 +159,4 @@ SHAP (SHapley Additive exPlanations) was used to explain the model's predictions
 
 **Salah Alaskary**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/salah-hesham/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/salah-hesham/)
